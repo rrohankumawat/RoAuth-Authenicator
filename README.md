@@ -2,7 +2,7 @@
 
 Live Url: https://www.tinyurl.com/roauth
 
-Note: Codebased Repository is Private.
+Note: 🔒 Made the codebased repo private to protect my source code.
 
 This is a modular and secure authentication system built with **ASP.NET Core (.NET 8)**. It features standard authentication (login, registration, forgot/reset password) along with **Two-Factor Authentication (2FA)** using **TOTP (Time-based One-Time Passwords)** and a scannable QR code.
 
