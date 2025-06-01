@@ -93,7 +93,7 @@ This structure enables scalability, testability, and separation of concerns usin
 
 **Clone the repository:**
    ```bash
-   git clone https://github.com/rrohankumawat/AuthenticatorWithQr.git
+   git clone https://github.com/rrohankumawat/AuthenticatorWithQr.git  (Private) 
 
 
 📄 License
